@@ -4,8 +4,10 @@ P.R. Deving Dec 2015
 ####Last update: 11 December 2015
 
 
-Sprite based animations in pure DOM elements
+Sprite based animations in pure DOM elements.
 No canvas needed.
+
+Rigth now the sprites has to be each frame following the last one, without margin and just in one row (example in img/)
 
 
 IE8 or less not supported (gonna fix it eventually).
