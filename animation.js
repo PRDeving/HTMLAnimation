@@ -167,8 +167,6 @@ var HTMLAnimation = new function(){
     this.Loop = _doesItLoop;
 }
 
-var animation = HTMLAnimation.New(".animation","img/anim.png",9,50,72,4,true)
-
 
 
 
